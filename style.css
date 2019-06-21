@@ -1,0 +1,60 @@
+header {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-family: serif;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: serif;
+    font-size: 2em;
+}
+
+h2 {
+    text-align: center;
+    font-family: serif;
+}
+
+h3 {
+    text-align: center;
+    font-family: serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+li {
+    font-family: sans-serif;
+}
+
+article {
+    font-family: sans-serif;
+}
+
+aside {
+    width: 35vw;
+}
+
+footer {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+body {
+    color: #f4c20c;
+    background-color: #494949;
+}
+
+div {
+    width: 30vw;
+    padding: 4rem;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
